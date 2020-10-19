@@ -2,9 +2,69 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1 {
+  margin-top: 20px;
+}
+
+h3 {
+  margin-top: 20px;
+}
+
+.eom {
+  width: 100%;
+  text-align: center;
+}
+
+.title {
+  width: 50%;
+}
+.category-title {
+  display: flex;
+}
+.input-group {
+  width: 60%;
+  display: inline;
+}
+button.navbar-nav {
+  margin-left: 20px;
+}
+
+.brand{
+  width: auto;
+  height: 80px;
+}
+
+.employee{
+  margin: auto;
+}
+
+.description {
+  width: 50%;
+  margin: auto;
+}
+
+.date {
+  margin: auto;
+}
+
+div.dropdown {
+  display: inline;
+  padding: 10px;
+}
+div.react-datepicker-wrapper {
+  padding: 10px;
+}
+input.date {
+  width: 100px;
+}
+
+.my-btn {
+  display: inline;
+  margin-left: 10px;
+}
+p {
+  display: inline;
+  padding: 10px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
